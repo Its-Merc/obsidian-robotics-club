@@ -25,12 +25,12 @@
             "id": "84520d2c70f70db9",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "image",
               "state": {
-                "currentVersion": "1.10.6"
+                "file": "How to Load a Loader.png"
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.6"
+              "icon": "lucide-image",
+              "title": "How to Load a Loader"
             }
           }
         ],
@@ -216,8 +216,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "84520d2c70f70db9",
+  "active": "8f7850fd7b8c8338",
   "lastOpenFiles": [
+    "Loader.png",
+    "How to Load a Loader.png",
+    "VEX Pushback/Rules/SG9.md",
     "VEX Pushback/VEX Pushback.md",
     "VEX Pushback/Rules/R20.md",
     "VEX Pushback/Rules/SG10.md",
@@ -237,7 +240,6 @@
     "Center Goals.png",
     "Parking.png",
     "Long Goal.png",
-    "Loader.png",
     "Field.png",
     "VEX Pushback/Definitions/Upper Center Goal.md",
     "Robotics Club.md",
@@ -249,11 +251,8 @@
     "Robotics Club/Pasted image 20251126155120.png",
     "Robotics Club/Pasted image 20251126155107.png",
     "Robotics Club/Pasted image 20251126154927.png",
-    "Robotics Club/Pasted image 20251126154105.png",
     "Robotics Club/Engineer Journal/Wednesday November 26, 2025.md",
     "Game Design/To-do.md",
-    "Robotics Club/VEX Pushback/Rules/SG7.md",
-    "Robotics Club/VEX Pushback/Rules/SG6.md",
     "Robotics Club/VEX Pushback/Rules",
     "Robotics Club/VEX Pushback/Definitions",
     "Robotics Club/VEX Pushback",
