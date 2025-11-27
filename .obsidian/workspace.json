@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VEX Pushback/VEX Pushback.md",
+                "file": "VEX Pushback/Definitions/Entanglement.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "VEX Pushback"
+              "title": "Entanglement"
             }
           }
         ]
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "VEX Pushback/VEX Pushback.md",
+                "file": "VEX Pushback/Definitions/Entanglement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for VEX Pushback"
+              "title": "Backlinks for Entanglement"
             }
           },
           {
@@ -158,12 +158,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "VEX Pushback/VEX Pushback.md",
+                "file": "VEX Pushback/Definitions/Entanglement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from VEX Pushback"
+              "title": "Outgoing links from Entanglement"
             }
           },
           {
@@ -172,13 +172,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "VEX Pushback/VEX Pushback.md",
+                "file": "VEX Pushback/Definitions/Entanglement.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of VEX Pushback"
+              "title": "Outline of Entanglement"
             }
           }
         ]
@@ -204,10 +204,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "577e8e947d6c4b60",
+  "active": "8d7ffb5e0019767e",
   "lastOpenFiles": [
-    "VEX Pushback/Definitions/Upper Center Goal.md",
+    "VEX Pushback/Rules/GG9.md",
     "VEX Pushback/VEX Pushback.md",
+    "VEX Pushback/Definitions/Upper Center Goal.md",
     "Robotics Club.md",
     "Robotics Club/VEX Pushback/Definitions/Control Zone.md",
     "Robotics Club/VEX Pushback/Definitions/Center Goals.md",
@@ -242,7 +243,6 @@
     "Robotics Club/VEX Pushback/Rules",
     "Robotics Club/VEX Pushback/Definitions/Upper Center Goal.md",
     "Robotics Club/VEX Pushback/Definitions/Park Zone.md",
-    "Robotics Club/VEX Pushback/Definitions/Long Goal.md",
     "Robotics Club/VEX Pushback/Definitions",
     "Robotics Club/VEX Pushback",
     "Game Design",
