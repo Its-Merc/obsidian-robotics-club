@@ -1,0 +1,148 @@
+/*
+.markdown-source-view.mod-cm6.is-live-preview
+.markdown-rendered
+*/
+
+body {
+  --list-indent-editing: 0ch;
+  --list-spacing: 0ch;
+  --list-bullet-transform: scale(1);
+  --x-offset: -3ch;
+  --file-padding: 0ch;
+  /*--list-bullet-end-padding: var(--font-text-size);*/
+}
+
+span.list-bullet::after {
+  content: '->';
+  text-wrap-mode: nowrap;
+  width: unset;
+  height: unset;
+  background-color: unset;
+  box-shadow: none;
+  text-indent: 0ch;
+}
+
+
+
+
+
+/* Editing Mode */
+
+span.list-bullet {
+  transform: var(--list-bullet-transform);
+}
+
+.markdown-source-view.mod-cm6.is-live-preview span.list-bullet {
+  margin-inline-start: calc(0.5ch + var(--x-offset));
+  margin-inline-end: 0.5ch;
+}
+
+li.is-collapsed .list-bullet:after,
+.cm-fold-indicator:hover~.cm-formatting.cm-formatting-list .list-bullet::after,
+.is-collapsed~.cm-formatting-list .list-bullet::after,
+.cm-fold-indicator.is-collapsed span.list-bullet::after {
+  box-shadow: none;
+  background-color: unset;
+}
+
+li.is-collapsed .list-bullet:after,
+.is-collapsed~.cm-formatting-list span.list-bullet::after {
+  color: var(--list-marker-color-collapsed);
+}
+
+
+
+
+
+.cm-formatting.cm-formatting-list.cm-formatting-list-ol.cm-list-2 .list-number {
+  list-style-type: lower-alpha;
+}
+
+.cm-formatting.cm-formatting-list.cm-formatting-list-ol {
+  margin-inline-start: calc(0ch + var(--x-offset));
+}
+
+
+
+
+
+
+.markdown-source-view.mod-cm6.is-live-preview .cm-indent::before {
+  margin-inline-start: calc(1.25ch + var(--x-offset));
+}
+
+
+
+
+
+.markdown-source-view.mod-cm6.is-live-preview .cm-fold-indicator {
+  transform: translate(calc(-6ch - var(--x-offset)), 0);
+  position: absolute;
+}
+
+.view-content>.markdown-source-view.mod-cm6>.cm-editor>.cm-scroller {
+  padding-inline-start: calc(var(--file-margins) + var(--file-padding) - var(--x-offset));
+}
+
+
+
+
+/* Reading Mode */
+
+.markdown-rendered span.list-bullet {
+  margin-inline-end: 2ch;
+}
+
+ul.has-list-bullet li {
+  margin-inline-start: calc(2.4ch + var(--x-offset));
+}
+
+
+.markdown-source-view.mod-cm6.is-live-preview .task-list-label {
+  margin-inline-start: calc(-0.7ch + var(--x-offset));
+}
+
+
+li ol li {
+  list-style-type: lower-alpha;
+}
+
+
+.markdown-rendered ol>li {
+  margin-inline-start: calc(3ch + var(--x-offset));
+}
+
+
+
+.markdown-rendered ol>li>ul.has-list-bullet>li {
+  margin-inline-start: calc(-0.75ch - var(--x-offset));
+}
+
+
+.contains-task-list.has-list-bullet .task-list-item {
+  margin-inline-start: calc(0ch - var(--x-offset));
+}
+
+input[type="checkbox"].task-list-item-checkbox {
+  margin-inline-end: calc(-0.25ch - var(--x-offset));
+}
+
+ul>li,
+ol>li {
+  text-align: left;
+}
+
+ul::before {
+  margin-inline-start: calc(3ch + var(--x-offset));
+}
+
+
+
+.el-ol ol::before {
+  margin-inline-start: calc(3ch + var(--x-offset));
+}
+
+
+.markdown-preview-view.markdown-rendered.node-insert-event.allow-fold-headings.allow-fold-lists.show-properties {
+  padding-inline-start: calc(var(--file-margins) + var(--file-padding) - var(--x-offset));
+}

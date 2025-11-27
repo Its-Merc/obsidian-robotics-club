@@ -1,0 +1,13 @@
+{
+  "livePreview": true,
+  "tabSize": 3,
+  "promptDelete": false,
+  "newFileLocation": "current",
+  "readableLineLength": false,
+  "strictLineBreaks": false,
+  "showLineNumber": false,
+  "showIndentGuide": false,
+  "rightToLeft": false,
+  "vimMode": false,
+  "alwaysUpdateLinks": true
+}

@@ -1,0 +1,250 @@
+{
+  "main": {
+    "id": "2abcf9461afa490b",
+    "type": "split",
+    "children": [
+      {
+        "id": "d2e5edaeaf6da01f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8d7ffb5e0019767e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d03161b651d81623",
+    "type": "split",
+    "children": [
+      {
+        "id": "04391af918e5a0e8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8f7850fd7b8c8338",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "955a74c7a00b7e04",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Even Function",
+                "matchingCase": false,
+                "explainSearch": true,
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b5c7bbd92aa50083",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 478.5
+  },
+  "right": {
+    "id": "8d5ee01e3081099c",
+    "type": "split",
+    "children": [
+      {
+        "id": "ebf4408162e2a685",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "577e8e947d6c4b60",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "df6e9a16314aafc4",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "51f39279fd4ae344",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7d16bf65929eb2ba",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "172561975698923c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "6dba186db933265e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Personal/Journal/Sunday November 23, 2025.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Sunday November 23, 2025"
+            }
+          },
+          {
+            "id": "245f608a23f4db30",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 402.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "canvas:Create new canvas": true,
+      "bases:Create new base": true,
+      "daily-notes:Open today's daily note": false,
+      "obsidian-git:Open Git source control": false,
+      "obisidian-note-linker:Note Linker": false,
+      "3d-graph-new:Global 3D Graph": false,
+      "password-protection:Lock password protection": false,
+      "omnisearch:Omnisearch": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "577e8e947d6c4b60",
+  "lastOpenFiles": [
+    "Robotics Club/VEX Pushback/Definitions/Control Zone.md",
+    "Robotics Club/VEX Pushback/Definitions/Center Goals.md",
+    "Robotics Club/VEX Pushback/Definitions/Block.md",
+    "Robotics Club/VEX Pushback/VEX Pushback.md",
+    "Pasted image 20251116161457.png",
+    "Robotics Club/Pasted image 20251126155120.png",
+    "Robotics Club/Pasted image 20251126155107.png",
+    "Robotics Club/Pasted image 20251126154927.png",
+    "Robotics Club/Pasted image 20251126154105.png",
+    "Robotics Club/Pasted image 20251126151719.png",
+    "Pasted image 20251126151719.png",
+    "Pasted image 20251126154105.png",
+    "Pasted image 20251126154927.png",
+    "Pasted image 20251126155107.png",
+    "Robotics Club/Engineer Journal/Wednesday November 26, 2025.md",
+    "Game Design/To-do.md",
+    "Robotics Club/VEX Pushback/Rules/SG7.md",
+    "Robotics Club/VEX Pushback/Rules/SG6.md",
+    "Robotics Club/VEX Pushback/Rules/SG5.md",
+    "Robotics Club/VEX Pushback/Rules/SG3.md",
+    "Robotics Club/VEX Pushback/Rules/SG2.md",
+    "Robotics Club/VEX Pushback/Rules/SG10.md",
+    "Robotics Club/VEX Pushback/Rules/SG1.md",
+    "Robotics Club/VEX Pushback/Rules/Rules.md",
+    "Robotics Club/VEX Pushback/Rules/GG9.md",
+    "Robotics Club/VEX Pushback/Rules/GG18.md",
+    "Robotics Club/VEX Pushback/Rules/GG16.md",
+    "Robotics Club/VEX Pushback/Rules/GG17.md",
+    "Robotics Club/VEX Pushback/Rules/GG15.md",
+    "Robotics Club/VEX Pushback/Rules/GG14.md",
+    "Robotics Club/VEX Pushback/Rules",
+    "Robotics Club/VEX Pushback/Definitions/Upper Center Goal.md",
+    "Robotics Club/VEX Pushback/Definitions/Park Zone.md",
+    "Robotics Club/VEX Pushback/Definitions/Long Goal.md",
+    "Robotics Club/VEX Pushback/Definitions/Loader.md",
+    "Robotics Club/VEX Pushback/Definitions/Holding.md",
+    "Robotics Club/VEX Pushback/Definitions/Goal.md",
+    "Robotics Club/VEX Pushback/Definitions",
+    "Robotics Club/VEX Pushback",
+    "Game Design",
+    "Physics/Labs/Notes",
+    "Robotics Club/Engineer Journal",
+    "Robotics Club",
+    "Human Geography/One Dollar a Day",
+    "Statistics",
+    "Math/Functions/Type by Graph/Untitled"
+  ]
+}

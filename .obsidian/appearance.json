@@ -1,0 +1,14 @@
+{
+  "accentColor": "#5c75f5",
+  "interfaceFontFamily": "Cascadia Code PL,Cascadia Code,Fairfax Hax HD",
+  "textFontFamily": "Cascadia Code PL,Cascadia Code,Fairfax Hax HD",
+  "monospaceFontFamily": "Cascadia Code PL,Cascadia Code,Fairfax Hax HD",
+  "translucency": true,
+  "cssTheme": "",
+  "theme": "obsidian",
+  "baseFontSizeAction": true,
+  "baseFontSize": 22,
+  "enabledCssSnippets": [
+    "change_bullets"
+  ]
+}

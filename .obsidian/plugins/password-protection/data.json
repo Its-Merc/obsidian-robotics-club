@@ -1,0 +1,13 @@
+{
+  "protectedPath": "/People",
+  "addedProtectedPath": [
+    "Personal/Journal"
+  ],
+  "protectEnabled": true,
+  "password": "))0N",
+  "lang": "auto",
+  "autoLockInterval": 10,
+  "pwdHintQuestion": "hi slimy slime",
+  "isLastVerifyPasswordCorrect": false,
+  "timeOnUnload": 0
+}

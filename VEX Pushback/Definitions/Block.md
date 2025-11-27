@@ -1,0 +1,4 @@
+- there are 44 red, 44 blue
+- 18-sided
+- 3.25 inches from one flat side to another
+- 3.85 inches from a corner to the opposing one
