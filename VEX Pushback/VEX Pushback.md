@@ -9,33 +9,7 @@ Skills Key: 23VSHR
 [engineer notebook](https://docs.google.com/presentation/d/1WRekhPsDsvQtahbKOXli1lluypx1cpBUNWrjvjhd7bU/edit?pli=1&slide=id.g223c850ad72_0_102#slide=id.g223c850ad72_0_102)
 
 %% Begin Waypoint %%
-- **Definitions**
-	- [[Block]]
-	- [[Center Goals]]
-	- [[Control Zone]]
-	- [[Entanglement]]
-	- [[Field Element]]
-	- [[Field Perimeter]]
-	- [[Field]]
-	- [[Floor]]
-	- [[Goal]]
-	- [[Holding]]
-	- [[Loader]]
-	- [[Long Goal]]
-	- [[Park Zone]]
+- **[[Definitions]]**
 - **[[Rules]]**
-	- [[GG9]]
-	- [[GG14]]
-	- [[GG15]]
-	- [[GG16]]
-	- [[GG17]]
-	- [[GG18]]
-	- [[SG1]]
-	- [[SG2]]
-	- [[SG3]]
-	- [[SG5]]
-	- [[SG6]]
-	- [[SG7]]
-	- [[SG10]]
 
 %% End Waypoint %%
