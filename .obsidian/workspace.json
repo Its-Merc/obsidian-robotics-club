@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "R20"
             }
+          },
+          {
+            "id": "84520d2c70f70db9",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.6"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -195,7 +208,6 @@
       "command-palette:Open command palette": false,
       "canvas:Create new canvas": true,
       "bases:Create new base": true,
-      "daily-notes:Open today's daily note": false,
       "obsidian-git:Open Git source control": false,
       "obisidian-note-linker:Note Linker": false,
       "3d-graph-new:Global 3D Graph": false,
@@ -204,7 +216,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8d7ffb5e0019767e",
+  "active": "84520d2c70f70db9",
   "lastOpenFiles": [
     "VEX Pushback/VEX Pushback.md",
     "VEX Pushback/Rules/R20.md",
