@@ -158,12 +158,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Journal/Sunday November 23, 2025.md",
+                "file": "VEX Pushback/VEX Pushback.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Sunday November 23, 2025"
+              "title": "Outgoing links from VEX Pushback"
             }
           },
           {
@@ -204,8 +204,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8d7ffb5e0019767e",
+  "active": "577e8e947d6c4b60",
   "lastOpenFiles": [
+    "VEX Pushback/Definitions/Upper Center Goal.md",
+    "VEX Pushback/VEX Pushback.md",
     "Robotics Club.md",
     "Robotics Club/VEX Pushback/Definitions/Control Zone.md",
     "Robotics Club/VEX Pushback/Definitions/Center Goals.md",
@@ -241,8 +243,6 @@
     "Robotics Club/VEX Pushback/Definitions/Upper Center Goal.md",
     "Robotics Club/VEX Pushback/Definitions/Park Zone.md",
     "Robotics Club/VEX Pushback/Definitions/Long Goal.md",
-    "Robotics Club/VEX Pushback/Definitions/Loader.md",
-    "Robotics Club/VEX Pushback/Definitions/Holding.md",
     "Robotics Club/VEX Pushback/Definitions",
     "Robotics Club/VEX Pushback",
     "Game Design",

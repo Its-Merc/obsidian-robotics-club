@@ -23,7 +23,6 @@ Skills Key: 23VSHR
 	- [[Loader]]
 	- [[Long Goal]]
 	- [[Park Zone]]
-	- [[Upper Center Goal]]
 - **[[Rules]]**
 	- [[GG9]]
 	- [[GG14]]
