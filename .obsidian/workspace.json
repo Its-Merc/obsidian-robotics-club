@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VEX Pushback/Rules/R9.md",
+                "file": "VEX Pushback/Rules/R26.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "R9"
+              "title": "R26"
             }
           }
         ]
@@ -205,8 +205,10 @@
   },
   "active": "8d7ffb5e0019767e",
   "lastOpenFiles": [
-    "VEX Pushback/Rules/R7.md",
+    "VEX Pushback/Rules/R19.md",
+    "VEX Pushback/Rules/R26.md",
     "VEX Pushback/Rules/R9.md",
+    "VEX Pushback/Rules/R7.md",
     "New Text Document.txt",
     "conflict-files-obsidian-git.md",
     "VEX Pushback/Rules/SG1.md",
@@ -232,12 +234,10 @@
     "VEX Pushback/Definitions/Field Perimeter.md",
     "VEX Pushback/Definitions/Definitions.md",
     "VEX Pushback/Definitions/Block.md",
-    "VEX Pushback/Rules/Rules.md",
     "Center Goals.png",
     "Parking.png",
     "Long Goal.png",
     "Field.png",
-    "VEX Pushback/Definitions/Upper Center Goal.md",
     "Pasted image 20251116161457.png",
     "Robotics Club/Pasted image 20251126155120.png",
     "Robotics Club/Pasted image 20251126155107.png",
