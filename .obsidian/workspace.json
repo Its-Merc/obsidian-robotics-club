@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VEX Pushback/VEX Pushback.md",
+                "file": "VEX Pushback/Rules/R20.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "VEX Pushback"
+              "title": "R20"
             }
           }
         ]
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "VEX Pushback/VEX Pushback.md",
+                "file": "VEX Pushback/Rules/R20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for VEX Pushback"
+              "title": "Backlinks for R20"
             }
           },
           {
@@ -158,12 +158,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "VEX Pushback/VEX Pushback.md",
+                "file": "VEX Pushback/Rules/R20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from VEX Pushback"
+              "title": "Outgoing links from R20"
             }
           },
           {
@@ -172,13 +172,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "VEX Pushback/VEX Pushback.md",
+                "file": "VEX Pushback/Rules/R20.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of VEX Pushback"
+              "title": "Outline of R20"
             }
           }
         ]
@@ -206,6 +206,8 @@
   },
   "active": "8d7ffb5e0019767e",
   "lastOpenFiles": [
+    "VEX Pushback/VEX Pushback.md",
+    "VEX Pushback/Rules/R20.md",
     "VEX Pushback/Rules/SG10.md",
     "VEX Pushback/Rules/SG7.md",
     "VEX Pushback/Rules/GG9.md",
@@ -219,7 +221,6 @@
     "VEX Pushback/Definitions/Field Perimeter.md",
     "VEX Pushback/Definitions/Definitions.md",
     "VEX Pushback/Definitions/Block.md",
-    "VEX Pushback/VEX Pushback.md",
     "VEX Pushback/Rules/Rules.md",
     "Center Goals.png",
     "Parking.png",
@@ -241,7 +242,6 @@
     "Game Design/To-do.md",
     "Robotics Club/VEX Pushback/Rules/SG7.md",
     "Robotics Club/VEX Pushback/Rules/SG6.md",
-    "Robotics Club/VEX Pushback/Rules/SG5.md",
     "Robotics Club/VEX Pushback/Rules",
     "Robotics Club/VEX Pushback/Definitions",
     "Robotics Club/VEX Pushback",
