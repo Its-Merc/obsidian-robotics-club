@@ -11,14 +11,12 @@
             "id": "8d7ffb5e0019767e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "VEX Pushback/Definitions/Entanglement.md",
-                "mode": "source",
-                "source": false
+                "file": "Center Goals.png"
               },
-              "icon": "lucide-file",
-              "title": "Entanglement"
+              "icon": "lucide-image",
+              "title": "Center Goals"
             }
           }
         ]
@@ -139,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "VEX Pushback/Definitions/Entanglement.md",
+                "file": "Center Goals.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Entanglement"
+              "title": "Backlinks for Center Goals"
             }
           },
           {
@@ -158,12 +156,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "VEX Pushback/Definitions/Entanglement.md",
+                "file": "Center Goals.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Entanglement"
+              "title": "Outgoing links from Center Goals"
             }
           },
           {
@@ -172,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "VEX Pushback/Definitions/Entanglement.md",
+                "file": "Center Goals.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Entanglement"
+              "title": "Outline of Center Goals"
             }
           }
         ]
@@ -206,6 +204,11 @@
   },
   "active": "8d7ffb5e0019767e",
   "lastOpenFiles": [
+    "Parking.png",
+    "Long Goal.png",
+    "Loader.png",
+    "Field.png",
+    "VEX Pushback/Definitions/Entanglement.md",
     "VEX Pushback/Rules/GG9.md",
     "VEX Pushback/VEX Pushback.md",
     "VEX Pushback/Definitions/Upper Center Goal.md",
@@ -220,10 +223,6 @@
     "Robotics Club/Pasted image 20251126154927.png",
     "Robotics Club/Pasted image 20251126154105.png",
     "Robotics Club/Pasted image 20251126151719.png",
-    "Pasted image 20251126151719.png",
-    "Pasted image 20251126154105.png",
-    "Pasted image 20251126154927.png",
-    "Pasted image 20251126155107.png",
     "Robotics Club/Engineer Journal/Wednesday November 26, 2025.md",
     "Game Design/To-do.md",
     "Robotics Club/VEX Pushback/Rules/SG7.md",
@@ -241,8 +240,6 @@
     "Robotics Club/VEX Pushback/Rules/GG15.md",
     "Robotics Club/VEX Pushback/Rules/GG14.md",
     "Robotics Club/VEX Pushback/Rules",
-    "Robotics Club/VEX Pushback/Definitions/Upper Center Goal.md",
-    "Robotics Club/VEX Pushback/Definitions/Park Zone.md",
     "Robotics Club/VEX Pushback/Definitions",
     "Robotics Club/VEX Pushback",
     "Game Design",
