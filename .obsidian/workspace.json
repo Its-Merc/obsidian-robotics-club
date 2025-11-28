@@ -40,8 +40,7 @@
                   "title": "Friday November 28, 2025"
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           },
           {
             "id": "6f324f5eb15498fd",
@@ -245,12 +244,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "58c0b13e2316b345",
+  "active": "8d7ffb5e0019767e",
   "lastOpenFiles": [
-    "Engineer Journal/Friday November 28, 2025.md",
     "Block Positioning.md",
-    "Field.png",
     "Notes.md",
+    "Engineer Journal/Friday November 28, 2025.md",
+    "Field.png",
     "VEX Pushback/Rules/SG1.md",
     "Engineer Journal/Wednesday November 26, 2025.md",
     "VEX Pushback/Rules/R19.md",
