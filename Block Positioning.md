@@ -16,8 +16,10 @@ on start, in the field, blocks will be arranged where:
 	- 4 in total
 
 - On own side:
-	- 36 blocks
+	- 30 blocks
 - On own corner:
 	- 15 blocks
+- On other side:
+	- 14 blocks
 
 ![[Field]]

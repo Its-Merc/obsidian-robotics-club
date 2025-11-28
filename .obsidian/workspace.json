@@ -10,6 +10,7 @@
           {
             "id": "d2e5edaeaf6da01f",
             "type": "tabs",
+            "dimension": 62.5,
             "children": [
               {
                 "id": "8d7ffb5e0019767e",
@@ -45,6 +46,7 @@
           {
             "id": "6f324f5eb15498fd",
             "type": "tabs",
+            "dimension": 37.5,
             "children": [
               {
                 "id": "37df175de2bb8dad",
@@ -243,12 +245,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "37df175de2bb8dad",
+  "active": "58c0b13e2316b345",
   "lastOpenFiles": [
+    "Field.png",
     "Block Positioning.md",
     "Notes.md",
     "VEX Pushback/Rules/SG1.md",
-    "Field.png",
     "Engineer Journal/Wednesday November 26, 2025.md",
     "VEX Pushback/Rules/R19.md",
     "VEX Pushback/Rules/R9.md",
@@ -274,7 +276,6 @@
     "VEX Pushback/Rules/SG7.md",
     "VEX Pushback/Definitions/Control Zone.md",
     "VEX Pushback/Definitions/Long Goal.md",
-    "VEX Pushback/Definitions/Holding.md",
     "Center Goals.png",
     "Parking.png",
     "Long Goal.png",
