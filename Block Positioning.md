@@ -12,6 +12,8 @@ on start, in the field, blocks will be arranged where:
 	- under the [[Long Goal|Long Goals]]
 	- 4 in total
 - 4 in the other side's parking lot
+- 2 each on the left and right sides of the Autonomous Line on the other side
+	- 4 in total
 
 - 
 
