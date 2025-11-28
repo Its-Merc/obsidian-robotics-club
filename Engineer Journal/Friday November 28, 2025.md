@@ -1,0 +1,2 @@
+- taking idea of using rubber bands instead of conveyor belt from online
+	- better grip
