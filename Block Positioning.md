@@ -15,6 +15,9 @@ on start, in the field, blocks will be arranged where:
 - 2 each on the left and right sides of the Autonomous Line on the other side
 	- 4 in total
 
-- 
+- On own side:
+	- 36 blocks
+- On own corner:
+	- 15 blocks
 
 ![[Field]]
