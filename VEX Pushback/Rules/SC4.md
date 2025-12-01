@@ -1,0 +1,4 @@
+- When parking, the [[Robot]]:
+	- cannot touch the [[Floor]] outside of the [[Park Zone]]
+	- cannot touch any [[Field Element|Field Elements]]
+	- doesn't necessarily have to be completely within the [[Park Zone]] otherwise
