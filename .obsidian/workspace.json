@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Code/stuff.md",
+                "file": "Materials/Sensors.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "stuff"
+              "title": "Sensors"
             }
           }
         ],
@@ -220,13 +220,15 @@
   },
   "active": "6e1d58c3740be107",
   "lastOpenFiles": [
+    "Code/stuff.md",
+    "Materials/Sensors.md",
+    "Materials",
     "Code/stuff.txt",
     "VEX Pushback/Scoring.md",
     "VEX Pushback/Definitions/Control Zone.md",
     "VEX Pushback/Rules/SC4.md",
     "VEX Pushback/Definitions/Center Goals.md",
     "VEX Pushback/VEX Pushback.md",
-    "Code/stuff.md",
     "Block Positioning.md",
     "Code",
     "conflict-files-obsidian-git.md",
@@ -263,8 +265,6 @@
     "Game Design",
     "Physics/Labs/Notes",
     "Robotics Club/Engineer Journal",
-    "Robotics Club",
-    "Human Geography/One Dollar a Day",
-    "Statistics"
+    "Robotics Club"
   ]
 }
