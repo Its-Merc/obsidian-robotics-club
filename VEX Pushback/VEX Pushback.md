@@ -11,5 +11,6 @@ Skills Key: 23VSHR
 %% Begin Waypoint %%
 - **[[Definitions]]**
 - **[[Rules]]**
+- [[Scoring]]
 
 %% End Waypoint %%
