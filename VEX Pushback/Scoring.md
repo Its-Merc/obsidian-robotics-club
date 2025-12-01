@@ -8,4 +8,8 @@
 |1 [Parked](https://www.vexrobotics.com/push-back-manual?___store=vexroboticsca&___from_store=vexrobotics&srsltid=AfmBOoo6Xx3bDc8U6wkBU-Bnm2lfW1s-hNw6ZotphgrFNF6k5zrx-2fC#parked) [Alliance](https://www.vexrobotics.com/push-back-manual?___store=vexroboticsca&___from_store=vexrobotics&srsltid=AfmBOoo6Xx3bDc8U6wkBU-Bnm2lfW1s-hNw6ZotphgrFNF6k5zrx-2fC#alliance) [Robot](https://www.vexrobotics.com/push-back-manual?___store=vexroboticsca&___from_store=vexrobotics&srsltid=AfmBOoo6Xx3bDc8U6wkBU-Bnm2lfW1s-hNw6ZotphgrFNF6k5zrx-2fC#robot)|8 Points|
 |2 [Parked](https://www.vexrobotics.com/push-back-manual?___store=vexroboticsca&___from_store=vexrobotics&srsltid=AfmBOoo6Xx3bDc8U6wkBU-Bnm2lfW1s-hNw6ZotphgrFNF6k5zrx-2fC#parked) [Alliance](https://www.vexrobotics.com/push-back-manual?___store=vexroboticsca&___from_store=vexrobotics&srsltid=AfmBOoo6Xx3bDc8U6wkBU-Bnm2lfW1s-hNw6ZotphgrFNF6k5zrx-2fC#alliance) [Robots](https://www.vexrobotics.com/push-back-manual?___store=vexroboticsca&___from_store=vexrobotics&srsltid=AfmBOoo6Xx3bDc8U6wkBU-Bnm2lfW1s-hNw6ZotphgrFNF6k5zrx-2fC#robot)|30 Points|
 Winning Autonomous -> 10 pts
-Each block scored in any goal
+Each block scored in any [[Goal]] -> 3 pts
+controlling a [[Control Zone]] -> 10 pts
+controlling the [[Center Goals|Upper Center Goal]] -> 8 pts
+controlling the [[Center Goals|Lower Center Goal]] -> 6 pts
+1 successfully parked car
