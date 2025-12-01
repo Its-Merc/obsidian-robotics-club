@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Materials/Sensors.md",
+                "file": "Available Materials/Sensors.md",
                 "mode": "source",
                 "source": false
               },
@@ -218,11 +218,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6e1d58c3740be107",
+  "active": "8f7850fd7b8c8338",
   "lastOpenFiles": [
     "Code/stuff.md",
-    "Materials/Sensors.md",
-    "Materials",
+    "Available Materials/Sensors.md",
+    "Available Materials",
     "Code/stuff.txt",
     "VEX Pushback/Scoring.md",
     "VEX Pushback/Definitions/Control Zone.md",
