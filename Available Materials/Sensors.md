@@ -6,9 +6,10 @@
 	- measures distance using a laser
 	
 - Vision Sensor
-	- can detect up to 7 colours at once at max
-		- including multi-coloured objects
-	- can be used to
-		- recognize colours, colour patterns
-		- follow an object
-		- get info on the environment
+	- can detect:
+		- up to 7 colours at once at max
+			- including multi-coloured objects
+		- VEX V5 objects
+			- cubes, etc.
+		- April Tags
+			- like a QR Code ish
