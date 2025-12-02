@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VEX Pushback/Rules/R12.md",
+                "file": "VEX Pushback/Rules/SG2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "R12"
+              "title": "SG2"
             }
           },
           {
@@ -219,8 +219,15 @@
   },
   "active": "8d7ffb5e0019767e",
   "lastOpenFiles": [
-    "VEX Pushback/VEX Pushback.md",
+    "VEX Pushback/Rules/SG3.md",
+    "VEX Pushback/Rules/SG2.md",
+    "VEX Pushback/Rules/SG5.md",
+    "VEX Pushback/Rules/SG6.md",
+    "VEX Pushback/Rules/SG7.md",
+    "VEX Pushback/Rules/SG9.md",
+    "VEX Pushback/Rules/SG10.md",
     "VEX Pushback/Rules/R12.md",
+    "VEX Pushback/VEX Pushback.md",
     "Available Materials/Sensors.md",
     "Block Positioning.md",
     "Code/stuff.md",
@@ -240,15 +247,8 @@
     "VEX Pushback/Rules/R9.md",
     "VEX Pushback/Rules/R7.md",
     "VEX Pushback/Rules/R1.md",
-    "VEX Pushback/Rules/SG9.md",
     "How to Load a Loader.png",
     "VEX Pushback/Rules/R20.md",
-    "VEX Pushback/Rules/SG10.md",
-    "VEX Pushback/Rules/SG7.md",
-    "VEX Pushback/Rules/GG9.md",
-    "VEX Pushback/Rules/GG14.md",
-    "VEX Pushback/Definitions/Long Goal.md",
-    "VEX Pushback/Rules/GG15.md",
     "Center Goals.png",
     "Parking.png",
     "Long Goal.png",
