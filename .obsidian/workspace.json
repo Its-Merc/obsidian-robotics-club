@@ -35,7 +35,8 @@
               "title": "Sensors"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -217,11 +218,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8d7ffb5e0019767e",
+  "active": "6e1d58c3740be107",
   "lastOpenFiles": [
+    "VEX Pushback/Rules/SG3.md",
     "VEX Pushback/Rules/SG5.md",
     "VEX Pushback/Rules/SG2.md",
-    "VEX Pushback/Rules/SG3.md",
     "VEX Pushback/Rules/SG6.md",
     "VEX Pushback/Rules/SG7.md",
     "VEX Pushback/Rules/SG9.md",

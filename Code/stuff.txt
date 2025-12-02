@@ -18,7 +18,16 @@ while (in_auto_mode):
     // robot should be positioned to head towards the 3 blocks of same colour
 
 
-    if (team_colour_sensor != null)
+    if (cam_sensor != null)
+        shot = take_snapshot()
+        for block in shot.detected_blocks:
+            if (block.colour == team): // same team
+                // TODO pick it up or smth
+            else:
+                // TODO some kind of other logic, complicated
+
+        if near_autonomous_line:
+            // go away from line if no blocks on our side
 
 
 
