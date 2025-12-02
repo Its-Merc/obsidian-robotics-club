@@ -23,11 +23,18 @@ while (in_auto_mode):
         for block in shot.detected_blocks:
             if (block.colour == team): // same team
                 // TODO pick it up or smth
+                // distance sensor ijsifjeiseifeij
+
             else:
                 // TODO some kind of other logic, complicated
 
         if near_autonomous_line:
             // go away from line if no blocks on our side
+            // inertial sensor stuff?
+
+    // some kind of logic to detect how much blocks robot is holding
+
+
 
 
 
