@@ -1,0 +1,33 @@
+toggle_team_side_button = BUTTON_0 // toggles between red_left, red_right, blue_left, blue_right
+
+def get_team(team_side): // BLUE, RED
+    if (team_side.value >= 1):
+        return BLUE
+    return RED
+
+def get_side(team_side): // LEFT, RIGHT
+    if (team_side == RED_RIGHT || team_side == BLUE_RIGHT) // RIGHT
+        return RIGHT
+    return LEFT
+
+team_side = RED_LEFT // 0 = RED_LEFT, 1 = RED_RIGHT, 2 = BLUE_LEFT, 3 = BLUE_RIGHT
+team = get_team(team_side) // 0 = RED, 1 = BLUE
+side = get_side(team_side) // 0 = LEFT, 1 = RIGHT
+
+while (in_auto_mode):
+    // robot should be positioned to head towards the 3 blocks of same colour
+
+
+    if (team_colour_sensor != null)
+
+
+
+
+    switch (team_side):
+        RED_LEFT:
+
+        RED_RIGHT:
+
+        BLUE_LEFT:
+
+        BLUE_RIGHT:
