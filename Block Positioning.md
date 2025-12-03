@@ -22,4 +22,7 @@ on start, in the field, blocks will be arranged where:
 - On other side:
 	- 7 + 7 blocks
 
+- in the goals, they can fit:
+	- 15 blocks -> [[Long Goal]]
+
 ![[Field]]
