@@ -24,5 +24,7 @@ on start, in the field, blocks will be arranged where:
 
 - in the goals, they can fit:
 	- 15 blocks -> [[Long Goal]]
+	- 7 blocks -> each [[Center Goals|Center Goal]]
+	- 29 blocks in total for goals
 
 ![[Field]]
