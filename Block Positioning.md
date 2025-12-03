@@ -27,6 +27,7 @@ on start, in the field, blocks will be arranged where:
 	- 7 blocks -> each [[Center Goals|Center Goal]]
 	- 44 blocks in all the goals
 
-- 8 blocks + 1 preload on autonomous start
+- 8 blocks + 1 preload on autonomous start on each corner
+	- can't give match loads during autonomous - [[SG9]]
 
 ![[Field]]
