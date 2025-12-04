@@ -16,8 +16,16 @@ side = get_side(team_side) // 0 = LEFT, 1 = RIGHT
 
 while (in_auto_mode):
     // robot should be positioned to head towards the 3 blocks of same colour
+    // robot should be programmed in a way that can get at least the 3 blocks in the loader, and the 3 block corner
+    // depending on left side or right side, dump into center top or bottom
+    // or maybe we go for long goal
+    // would have 8 + 1 blocks in the long goal
+    // should probably output the blocks closer to the end of the autonomous period
+
+    // could take away opponent's blocks
 
 
+    // ai sensor idea
     if (cam_sensor != null)
         shot = take_snapshot()
         for block in shot.detected_blocks:
@@ -33,9 +41,11 @@ while (in_auto_mode):
             // inertial sensor stuff?
 
     // some kind of logic to detect how much blocks robot is holding
+    // and which colour
+    // dont have to care about other team's colour
 
 
-
+    // sorting system
 
 
 
@@ -47,3 +57,6 @@ while (in_auto_mode):
         BLUE_LEFT:
 
         BLUE_RIGHT:
+
+
+while (driver_mode):
