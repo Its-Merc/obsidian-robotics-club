@@ -7,7 +7,9 @@ storage system
 - multiple versions of autonomous
 
 - button to swap between sides for autonomous
-	- 
+	- Y?
+
+
 
 - driving
 	- spin wheels -> left joystick up/down
