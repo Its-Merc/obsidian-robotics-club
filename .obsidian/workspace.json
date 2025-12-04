@@ -63,7 +63,8 @@
               "title": "stuff"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -245,10 +246,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8d7ffb5e0019767e",
+  "active": "64f290036aa39d8b",
   "lastOpenFiles": [
-    "Code/stuff.md",
     "Block Positioning.md",
+    "Code/stuff.md",
     "VEX Pushback/Rules/SG9.md",
     "Available Materials/Sensors.md",
     "VEX Pushback/Scoring.md",

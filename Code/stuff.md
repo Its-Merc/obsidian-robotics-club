@@ -17,6 +17,11 @@ storage system
 	- r1 -> pull in blocks
 	- r2 -> push out blocks
 	- l1 -> sort override
+	- d-pad
+		- up -> precise forward
+		- down -> precise backward
+		- left -> precise turn left
+		- right -> precise turn right
 
 - align to block function
 - 
