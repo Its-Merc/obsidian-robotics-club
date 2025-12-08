@@ -5,7 +5,7 @@
 - Distance Sensor
 	- measures distance using a laser
 	
-- Vision Sensor
+- AI Vision Sensor
 	- can detect:
 		- up to 7 colours at once at max
 			- including multi-coloured objects
@@ -13,3 +13,5 @@
 			- cubes, etc.
 		- April Tags
 			- like a QR Code ish
+	- resolution -> 320x240
+		- (160, 120) is the center
