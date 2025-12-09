@@ -1,0 +1,2 @@
+- got aligning to block code working on VEX VR
+- uses arctan to find the angle to turn the robot to correctly align with the block

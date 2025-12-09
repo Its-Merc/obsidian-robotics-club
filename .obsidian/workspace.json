@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Block Positioning.md",
+                "file": "Engineer Journal/Wednesday December 8, 2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Block Positioning"
+              "title": "Wednesday December 8, 2025"
             }
           },
           {
@@ -63,8 +63,7 @@
               "title": "stuff"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -246,12 +245,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6e1d58c3740be107",
+  "active": "8d7ffb5e0019767e",
   "lastOpenFiles": [
-    "Code/stuff.md",
+    "Engineer Journal/Friday November 28, 2025.md",
+    "Engineer Journal/Wednesday December 8, 2025.md",
     "Block Positioning.md",
-    "VEX Pushback/Rules/SG9.md",
     "Available Materials/Sensors.md",
+    "Code/stuff.md",
+    "VEX Pushback/Rules/SG9.md",
     "VEX Pushback/Scoring.md",
     "VEX Pushback/Rules/SG3.md",
     "VEX Pushback/Rules/SG5.md",
@@ -268,7 +269,6 @@
     "VEX Pushback/Definitions/Center Goals.md",
     "Code",
     "conflict-files-obsidian-git.md",
-    "Engineer Journal/Friday November 28, 2025.md",
     "VEX Pushback/Rules/T5.md",
     "VEX Pushback/Rules/R26.md",
     "VEX Pushback/Rules/R19.md",
@@ -277,7 +277,6 @@
     "VEX Pushback/Rules/R7.md",
     "VEX Pushback/Rules/R1.md",
     "How to Load a Loader.png",
-    "VEX Pushback/Rules/R20.md",
     "Center Goals.png",
     "Parking.png",
     "Long Goal.png",
