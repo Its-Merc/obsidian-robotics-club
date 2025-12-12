@@ -1,7 +1,9 @@
 - Inertial Sensor
 	- 3-axis gyroscope
 	- 3-axis accelerometer
-	- in code, you can get the heading, velocity, and rotational velocity
+	- in code, you can get the heading, velocity, and rotation
+		- heading is 0-360
+		- rotation pays attention to direction of rotation
 	
 - Distance Sensor
 	- measures distance using a laser
