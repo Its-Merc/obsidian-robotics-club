@@ -1,6 +1,7 @@
 - Inertial Sensor
 	- 3-axis gyroscope
 	- 3-axis accelerometer
+	- in code, you can get the heading, velocity, and rotational velocity
 	
 - Distance Sensor
 	- measures distance using a laser

@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -246,8 +246,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "64f290036aa39d8b",
+  "active": "6e1d58c3740be107",
   "lastOpenFiles": [
+    "VEX Pushback/Rules/GG17.md",
     "VEX Pushback/Rules/SG11.md",
     "Block Positioning.md",
     "How to Load a Loader.png",
@@ -277,7 +278,6 @@
     "VEX Pushback/Rules/R19.md",
     "Notes.md",
     "VEX Pushback/Rules/R9.md",
-    "VEX Pushback/Rules/R7.md",
     "Center Goals.png",
     "Parking.png",
     "Long Goal.png",
