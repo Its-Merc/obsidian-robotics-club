@@ -34,8 +34,19 @@
               "icon": "lucide-file",
               "title": "VEX Pushback"
             }
+          },
+          {
+            "id": "4a29c7c5c1b8835b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -217,10 +228,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8d7ffb5e0019767e",
+  "active": "4a29c7c5c1b8835b",
   "lastOpenFiles": [
-    "VEX Pushback/VEX Pushback.md",
     "Code/stuff.md",
+    "VEX Pushback/VEX Pushback.md",
     "VEX Pushback/Rules/SG11.md",
     "Engineer Journal/Wednesday December 8, 2025.md",
     "Block Positioning.md",
