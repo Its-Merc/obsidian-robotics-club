@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VEX Pushback/Rules/SG3.md",
+                "file": "VEX Pushback/Rules/SC6.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SG3"
+              "title": "SC6"
             }
           }
         ],
@@ -234,11 +234,12 @@
   },
   "active": "4a29c7c5c1b8835b",
   "lastOpenFiles": [
-    "VEX Pushback/Rules/SG2.md",
-    "VEX Pushback/Rules/SG3.md",
     "VEX Pushback/Rules/SG5.md",
+    "VEX Pushback/Rules/SC6.md",
     "VEX Pushback/Rules/SG6.md",
     "VEX Pushback/Rules/SG7.md",
+    "VEX Pushback/Rules/SG3.md",
+    "VEX Pushback/Rules/SG2.md",
     "VEX Pushback/Rules/SG9.md",
     "VEX Pushback/Rules/SG10.md",
     "VEX Pushback/Rules/SG11.md",
@@ -263,7 +264,6 @@
     "VEX Pushback/Rules/R7.md",
     "VEX Pushback/Rules/R1.md",
     "How to Load a Loader.png",
-    "VEX Pushback/Rules/R20.md",
     "Center Goals.png",
     "Parking.png",
     "Long Goal.png",
