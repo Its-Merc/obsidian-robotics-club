@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VEX Pushback/VEX Pushback.md",
+                "file": "VEX Pushback/Definitions/Park Zone.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "VEX Pushback"
+              "title": "Park Zone"
             }
           },
           {
@@ -234,6 +234,7 @@
   },
   "active": "941d43c913e7ef77",
   "lastOpenFiles": [
+    "VEX Pushback/VEX Pushback.md",
     "VEX Pushback/Definitions/Field Element.md",
     "VEX Pushback/Definitions/Field.md",
     "VEX Pushback/Definitions/Entanglement.md",
@@ -260,7 +261,6 @@
     "VEX Pushback/Rules/SG7.md",
     "VEX Pushback/Rules/SG3.md",
     "VEX Pushback/Rules/SG2.md",
-    "VEX Pushback/Rules/SG9.md",
     "Code/stuff.txt",
     "Code",
     "Available Materials",
