@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VEX Pushback/Rules/SG2.md",
+                "file": "Standardized Names of Parts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SG2"
+              "title": "Standardized Names of Parts"
             }
           },
           {
@@ -234,8 +234,9 @@
   },
   "active": "941d43c913e7ef77",
   "lastOpenFiles": [
-    "VEX Pushback/Rules/SG3.md",
     "VEX Pushback/Rules/SG2.md",
+    "Standardized Names of Parts.md",
+    "VEX Pushback/Rules/SG3.md",
     "VEX Pushback/Rules/SG5.md",
     "VEX Pushback/Rules/SG6.md",
     "VEX Pushback/Rules/SG7.md",
@@ -260,7 +261,6 @@
     "Field.png",
     "Available Materials/Sensors.md",
     "VEX Pushback/Rules/GG18.md",
-    "VEX Pushback/Rules/GG17.md",
     "Code/stuff.txt",
     "Code",
     "Available Materials",

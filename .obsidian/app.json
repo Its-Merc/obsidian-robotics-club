@@ -3,7 +3,7 @@
   "tabSize": 3,
   "promptDelete": false,
   "newFileLocation": "current",
-  "readableLineLength": false,
+  "readableLineLength": true,
   "strictLineBreaks": false,
   "showLineNumber": false,
   "showIndentGuide": false,
