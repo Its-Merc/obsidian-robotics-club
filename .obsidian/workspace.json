@@ -36,6 +36,18 @@
             }
           },
           {
+            "id": "89c176c130367830",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.5"
+            }
+          },
+          {
             "id": "4a29c7c5c1b8835b",
             "type": "leaf",
             "state": {
@@ -50,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -232,7 +244,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "941d43c913e7ef77",
+  "active": "89c176c130367830",
   "lastOpenFiles": [
     "VEX Pushback/Rules/SG2.md",
     "Standardized Names of Parts.md",
