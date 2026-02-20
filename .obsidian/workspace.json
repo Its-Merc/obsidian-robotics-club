@@ -34,21 +34,9 @@
               "icon": "lucide-file",
               "title": "Block"
             }
-          },
-          {
-            "id": "b59af92a94f09d7b",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.7"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -230,7 +218,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b59af92a94f09d7b",
+  "active": "941d43c913e7ef77",
   "lastOpenFiles": [
     "Standardized Names of Parts.md",
     "VEX Pushback/Definitions/Field Element.md",
